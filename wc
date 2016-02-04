@@ -1,0 +1,1 @@
+wc: wc is the wordcount command. It first display the number of words seperated by whitespace characters, then lined and then # of characters. you can simpplify the output via marks so that only the lined words etc. are displayed. it is a usefull tool to count certain things like number of files in a directory etc.
