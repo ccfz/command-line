@@ -1,0 +1,1 @@
+grep: grep is a powerfull tool to look for patterns via regular expression. Often it is combined with the find command and results are then pimped either into more commands or into files/ -print
