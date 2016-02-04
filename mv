@@ -1,0 +1,1 @@
+mv is a bash command that allows you to move object and or to rename them. It always consists of two arugments. the first arugment is the original file and the second arugment is the destination. In case you want to rename the file you can enter the new name in your second arugment.
